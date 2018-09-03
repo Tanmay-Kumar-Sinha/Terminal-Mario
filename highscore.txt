@@ -1,0 +1,10 @@
+Tanmay : 37800.0
+Tanmay : 32200.0
+Player : 27900.0
+Player : 12700.0
+Player1 : 10000.0
+Player1 : 9000.0
+Player1 : 8000.0
+Player1 : 7000.0
+Player1 : 6000.0
+Player : 5900.0
